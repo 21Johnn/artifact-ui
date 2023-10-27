@@ -1,6 +1,6 @@
 {
   "name": "artifact-ui",
-  "private": true,
+  "private": false,
   "version": "0.0.1",
   "type": "module",
   "author": "21John <contato21john@gmail.com>",
