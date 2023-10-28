@@ -1,8 +1,9 @@
 {
   "name": "artifact-ui",
   "private": false,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "type": "module",
+  "main": "src/App.tsx",
   "author": "21John <contato21john@gmail.com>",
   "license": "MIT",
   "scripts": {
